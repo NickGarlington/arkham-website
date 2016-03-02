@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+}
+
+
+header {
+  width: 100%;
+  height: 200px;
+  background-image: url("http://1.bp.blogspot.com/-DObd3mTmvI4/VEdfekHJkQI/AAAAAAABiTs/DfDbzDTaYEc/s1600/Gotham%2Bheader%2B1.jpg");
+}
+strong {
+  font-style: impact;
+  margin: 75px 0 0 0;
+}
+
+main {
+  width: 980px;
+  margin: 0 auto;
+
+}
+
+
+.arkham {
+  width: 300px;
+  margin: 50px 0 0;
+  float: left;
+  background-color: green;
+}
+
+p {
+  margin: 0 0 0 75px;
+}
+
+.update {
+  margin: 50px 0 250px 0;
+  text-align: left;
+  float: left;
+}
+
+article {
+  width: 680px;
+  height: 500px;
+  margin: 50px 0 0;
+  float: left;
+  background-color: red;
+}
+
+h1 {
+  margin: 0 0 100px 0;
+  text-align: center;
+}
+
+img {
+  margin: 20px 0 0 20px;
+}
